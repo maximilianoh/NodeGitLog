@@ -3,6 +3,8 @@ Nodejs server API that show git log from one folder
 
 ## Download project
     git clone https://github.com/maximilianoh/NodeGitLog.git
+    yarn install
+    yarn start
 
 ## Config 
     In configServerGit.json
