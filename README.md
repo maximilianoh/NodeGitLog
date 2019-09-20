@@ -10,7 +10,7 @@ Nodejs server API that show git log from one folder
     In configServerGit.json
 ```json
       {
-        "path": "path/local/repository/.git"
+        "path": "path/local/repository/.git",
         "notCheckUpdate": true, 
         "branch": "master" 
       }
