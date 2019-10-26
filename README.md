@@ -29,12 +29,8 @@ Nodejs server API that show git log from one folder
       set /home/user/example/Spoon-Knife/.git in  configServerGit.json
   
   
-    Show commits (GET)
+    Update Repository (GET)
     http://localhost:3001/updateRepository
-```json
-        {"cantHistorys":""} or {}
-        {"cantHistorys":"5"} or {"cantHistorys":5}
-```
 
 
     Show commits (POST)
